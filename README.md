@@ -21,5 +21,6 @@ The dataset contains 143 variables that can be summarised into features like sta
 </br>
 This is the ratio of the number of people who voted and the total voting population. In this study, the voting population is calculated by adding the number of males and females population aged 18 and above for the years 2011-15. This metric is known as the Voting age population.
 </br>
-
+ <img src="https://github.com/isabeljohnson001/county_level_presidential_elections/blob/a24907ad70309500f83f00e81acf586a9841699b/vtr_poverty.png" width="500"/>
+ 
 
